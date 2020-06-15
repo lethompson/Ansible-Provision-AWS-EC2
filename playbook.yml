@@ -10,7 +10,7 @@
     key_name: my_aws
     region: us-east-1
     image: ami-b63769a1 
-    id: "web-app"
+    id: "web-app-ansible"
     sec_group: "{{ id }}-sec"
 
   tasks:

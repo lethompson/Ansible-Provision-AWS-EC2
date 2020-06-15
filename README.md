@@ -19,7 +19,6 @@ pip install python-boto python-boto3 ansible
 
 ```
 ssh-keygen -t rsa -b 4096 -f ~/.ssh/my_aws
-
 ```
 
 ### Create the Ansible directory structure
@@ -37,5 +36,4 @@ ssh-keygen -t rsa -b 4096 -f ~/.ssh/my_aws
 mkdir -p AWS_Ansible_Config/groups_vars/all/
 cd AWS_Ansible_Config
 touch playbook.yml
-
 ```

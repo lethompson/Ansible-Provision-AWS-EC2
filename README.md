@@ -139,3 +139,13 @@ ec2_secret_key: <SECRET KEY>
 
       tags: ['never', 'create_ec2']
 ```
+
+### Create the instance via ansible with the tag (create_ec2)
+```
+> ansible-playbook playbook.yml --ask-vault-pass --tags create_ec2
+```
+
+### Connect to the EC2 instance via SSH
+```
+> ssh -i ~/.ssh/my_aws ubuntu@<public DNS ip address>
+```

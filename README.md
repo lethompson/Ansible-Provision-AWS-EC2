@@ -149,5 +149,12 @@ ec2_secret_key: <SECRET KEY>
 
 ### Connect to the EC2 instance via SSH
 ```
-> ssh -i ~/.ssh/my_aws ubuntu@<public DNS ip address>
+> ssh -i ~/.ssh/my_aws ec2-user@<public DNS ip address>
 ```
+
+
+![Ansible-AWS-EC2-2a](https://github.com/lethompson/Ansible-Provision-AWS-EC2/blob/master/ansible-ec2-aws.PNG)
+
+![Ansible-AWS-EC2-2b](https://github.com/lethompson/Ansible-Provision-AWS-EC2/blob/master/ansible-ec2-aws2.PNG)
+
+

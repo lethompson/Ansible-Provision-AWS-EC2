@@ -1,4 +1,4 @@
-![Ansible-AWS-EC2](https://github.com/lethompson/Ansible-Provision-AWS-EC2/blob/master/ansible-ec2-1.png)
+![Ansible-AWS-EC2](https://github.com/lethompson/Ansible-Provision-AWS-EC2/img/ansible-ec2-1.png)
 
 # Provision EC2 instances with Ansible
 
@@ -153,8 +153,8 @@ ec2_secret_key: <SECRET KEY>
 ```
 
 
-![Ansible-AWS-EC2-2a](https://github.com/lethompson/Ansible-Provision-AWS-EC2/blob/master/ansible-ec2-aws.PNG)
+![Ansible-AWS-EC2-2a](https://github.com/lethompson/Ansible-Provision-AWS-EC2/img/ansible-ec2-aws.PNG)
 
-![Ansible-AWS-EC2-2b](https://github.com/lethompson/Ansible-Provision-AWS-EC2/blob/master/ansible-ec2-aws2.PNG)
+![Ansible-AWS-EC2-2b](https://github.com/lethompson/Ansible-Provision-AWS-EC2/img/ansible-ec2-aws2.PNG)
 
 

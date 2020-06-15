@@ -1,3 +1,5 @@
+![Ansible-AWS-EC2](https://github.com/lethompson/Ansible-Provision-AWS-EC2/blob/master/ansible-ec2-1.png)
+
 # Provision EC2 instances with Ansible
 
 ### Prequisites for integration of Ansible and AWS Cloud:

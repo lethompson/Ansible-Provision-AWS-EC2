@@ -32,3 +32,10 @@ ssh-keygen -t rsa -b 4096 -f ~/.ssh/my_aws
 ├── playbook.yml
 
 ```
+
+```
+mkdir -p AWS_Ansible_Config/groups_vars/all/
+cd AWS_Ansible_Config
+touch playbook.yml
+
+```
